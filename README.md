@@ -1,4 +1,3 @@
-홍콩과기대 김성훈 교수님의 강의자료를 토대로 
-정리
+## Tensorflow2.x 활용한 ML, RL 공부
 
-ref site : [모두의 딥러닝](https://hunkim.github.io/ml)
+Reference site : [모두의 딥러닝](https://hunkim.github.io/ml)
